@@ -22,6 +22,7 @@ class Person:
         self.height = None
         self.weight = None
         self.parents = []
+        self.money = None
         pass
 
 
